@@ -1,0 +1,110 @@
+Interview Questions Summary
+1. Can you please introduce yourself and your recent project?
+
+2. Can you tell me about your recent project you have worked on?
+
+3. What type of application was it?
+
+4. Which database did you use?
+
+5. Have you added transactional annotation anywhere?
+
+6. How do you optimize queries while fetching or saving data?
+
+7. Is this a microservice-based or monolithic application?
+
+8. Was it for a client or an internal project?
+
+9. Can you describe the interaction with third-party services?
+
+10. What was the complex feature or changes you built in this project?
+
+11. Can you tell me the use case of packages in Java?
+
+12. What happens if two packages have the same class name?
+
+13. Are you aware of the static keyword in Java?
+
+14. Can a static block throw an exception?
+
+15. Can you override static methods in Java?
+
+16. What is the execution flow when a class is loaded?
+
+17. Do you know about generics?
+
+18. Can we use generics with arrays?
+
+19. Have you worked on exception handling? What happens when an exception is thrown in a static initialization block?
+
+20. Can we throw an exception from a finally block?
+
+21. Do you know about custom exceptions and inbuilt exceptions?
+
+22. Can you name any inbuilt exceptions?
+
+23. Can method overloading be determined at runtime?
+
+24. How does Java resolve a call to an overloaded method?
+
+25. Have you used the final keyword in your project?
+
+26. Can you give a real-world use case for the final keyword?
+
+27. Can we modify a final object's reference?
+
+28. What's the impact of declaring a method as final on inheritance?
+
+29. Do you know about inner classes in Java?
+
+30. What can you tell me about the Java memory model?
+
+31. How would you investigate and fix a memory leak in Java?
+
+32. Do you know about design patterns?
+
+33. Have you created a singleton before?
+
+34. What are the advantages of using Spring Boot over traditional Spring applications?
+
+35. What's the default server in Spring Boot? Can we change it?
+
+Interview Questions Summary
+1. Can you please tell me about yourself and your recent project?
+2. Which logging tools are you using?
+3. How did you integrate that?
+4. Was the interview preparation kit helpful?
+5. Which database are you using, and how did you connect with that DB in your project?
+6. What is Spring Boot dependency management?
+7. Is it possible to change the port of the Tomcat server in a Spring Boot application?
+8. What happens if a starter dependency includes conflicting versions of libraries with other dependencies in the project?
+9. What's the default port of Tomcat in Spring Boot?
+10. Can we replace this?
+11. Can we disable the default web server in a Spring Boot application?
+12. How will you disable it?
+13. How to disable a specific auto-configuration class?
+14. Can you tell me the difference between RestController and Controller?
+15. Can RestController return XML format?
+16. Can you tell me the difference between RequestMapping and GetMapping?
+17. Where should we use RequestMapping and GetMapping? Can you share an example?
+18. Can you tell me the difference between WAR and embedded containers?
+19. Can we check the environment properties in our Spring Boot application?
+20. Can we use the environment class?
+21. Can you explain the need for DevTool dependency?
+22. How do you test a Spring Boot application?
+23. What's the purpose of unit testing in software development?
+24. What's the coverage rule in your project?
+25. What's the role of Spring Boot Test annotation?
+26. Can you explain the purpose of BOM XML file in your project?
+27. What servers are provided by Spring Boot application, and which one is default?
+28. Can you explain the component scan and @Bean annotation?
+29. How can you programmatically determine which profiles are currently active in a Spring Boot application?
+30. How to enable debugging log in a Spring Boot application?
+31. What's the purpose of having a Spring Boot starter parent?
+32. What are the REST API best practices you follow in your project?
+33. What’s the status code for delete if it is successfully deleted?
+34. What about client-side errors related to the 400 series?
+35. Have you worked in a multi-threaded environment?
+
+
+
